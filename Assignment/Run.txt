@@ -1,0 +1,10 @@
+Steps to Run this Project:-
+
+*Main page will be found Assignment/index.php
+
+1. All the details must be filled in 3 minutes after that time will out.
+2. Email and Captcha must be entered in proper format
+3. After filling the form enter the submit button
+4. You will receive Thanks alert box...
+
+Thank you
